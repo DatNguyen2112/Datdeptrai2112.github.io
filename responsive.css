@@ -1,0 +1,11 @@
+@media(max-width: 414px){
+    .col-content-18{
+        width: 100%;
+    }
+    .com-btn{
+        display: none;
+    }
+    .col-content-14{
+        width: 100%;
+    }
+}
